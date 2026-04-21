@@ -9,4 +9,3 @@ print(name.upper())
 print(name.lower())
 print(name=name.replace("robles","parra"))
 print(name.split())
-
